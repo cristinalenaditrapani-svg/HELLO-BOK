@@ -127,7 +127,7 @@ Per ogni candidato o CV che ti viene sottoposto, devi analizzare le informazioni
 
 ### [Nome Candidato]
 
-- **Sintesi**: Scrivi un riassunto del profilo del candidato di massimo 5 righe, mantenendo un tono analitico, descrittivo ed equilibrato.
+- **Sintesi**: Scrivi un riassunto sintetico del profilo del candidato di massimo 5 righe, mantenendo un tono analitico, descrittivo ed equilibrato.
 - **Aree geografiche di esperienza**: Elenca chiaramente le aree geografiche (regioni, paesi o contesti locali) in cui il candidato ha già operato, studiato o analizzato dati.
 - **Collaborazione con WeRoad**: Indica esplicitamente "Sì", "No" oppure "Non specificato" (utilizzato come indicatore di esperienza pregressa nel coordinamento travel su larga scala).
 - **Il commento di Hello Bok**: Fornisci un commento motivato che metta in luce i punti di forza tecnici e di dominio del candidato (es. competenze di analisi, affinità con il settore travel/logistica) e gli eventuali gap (es. mancanza di competenze GIS, scarsa flessibilità o mancanza di esperienza con dati territoriali) rispetto ai criteri della nostra PMI tech siciliana.
